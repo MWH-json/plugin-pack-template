@@ -19,3 +19,6 @@ When you download it you can see that we made it and it is separated from the ot
 # Adding plugins
 
 To add your own plugins open your game go to ```Singleplayer>Plugin Library>Plugin Pack>YOUR PACK NAME>Edit```, **DO NOT CLICK SAVE AT THE NAME AND DESCRIPTION PART, IT WILL CORRUPT THE PLUGIN PACK, JUST GO TO THE OTHER SECTIONS TO START ADDING PLUGINS, IT DOESNT MATTER IF YOU ADD IT WITHOUT SAVING, IT WILL SAVE IT AFTER ALL**
+
+# Custom Logo
+If you want to add a custom logo just edit our logo with your things and then rename it again to ```logo.png_``` *the ```.png_``` there its important, do not delete it*
