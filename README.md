@@ -13,7 +13,7 @@ When you download it you can see that we made it and it is separated from the ot
 
 * In the ```pack_manifest.json``` there is some properties you'll need to fill up to make this happen:
     1. ```author``` and all his variants are your username.
-    2. ```authoruin``` its your UID, it starts with 1000 and the beggining .
+    2. ```authoruin``` its your UID, it starts with 1000 at the beggining.
     3. ```uuid``` its the **Universal Unique Identifier**, you can get one from this site: https://www.uuidgenerator.net/
     
 # Adding plugins
