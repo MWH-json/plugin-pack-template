@@ -1,0 +1,11 @@
+{
+	"property": {
+		"MaxHeight": 15,
+		"MaxVeinBlocks": 3,
+		"MinHeight": 0,
+		"ReplaceBlock": 104,
+		"TryGenCount": 7,
+		"copyid": 404,
+		"id": 100404 
+	} 
+} 
