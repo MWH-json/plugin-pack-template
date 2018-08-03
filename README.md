@@ -16,7 +16,7 @@ When you download it you can see that we made it and it is separated from the ot
     2. ```authoruin``` its your UID, it starts with 1000 at the beggining.
     3. ```uuid``` its the **Universal Unique Identifier**, you can get one from this sites: 
     * [UUIDGenerator](https://www.uuidgenerator.net/) 
-    * [Feik's UUID Generator (using the same API as uuidgenerator](http://feiku.gq/uuid)
+    * [Feik's UUID Generator (using the same API as uuidgenerator)](https://feiku.gq/uuid)
     
 # Adding plugins
 
@@ -25,4 +25,5 @@ To add your own plugins open your game go to ```Singleplayer>Plugin Library>Plug
 
 
 # Custom Logo
+
 If you want to add a custom logo just edit our logo with your things and then rename it again to ```logo.png_``` *the ```.png_``` there its important, do not remove it*
